@@ -2,7 +2,7 @@
 
 ##############################################################################
 #
-# Backports and forward ports of utility functions to OpusVL's Odoo branch
+# Backports and forward ports of utility functions to saas-6
 # Copyright (C) 2016 OpusVL (<http://opusvl.com/>)
 #
 # This program is free software: you can redistribute it and/or modify
@@ -43,7 +43,7 @@
     'test': [
     ],
     'license': 'AGPL-3',
-    'installable': True,
+    'installable': False,
     'auto_install': False,
 
 }
