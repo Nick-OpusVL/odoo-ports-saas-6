@@ -2,7 +2,7 @@
 
 ##############################################################################
 #
-# Backports and forward ports of utility functions to OpusVL Odoo 8.6
+# Backports and forward ports of utility functions to saas-6
 # Copyright (C) 2016 OpusVL (<http://opusvl.com/>)
 #
 # This program is free software: you can redistribute it and/or modify

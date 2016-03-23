@@ -22,15 +22,15 @@
 
 
 {
-    'name': 'Backports and forward ports of utility functions to OpusVL Odoo 8.6',
+    'name': 'Backports and forward ports of utility functions to saas-6',
     'version': '0.1',
     'author': 'OpusVL',
     'website': 'http://opusvl.com/',
-    'summary': 'Backports and forward ports of utility functions to OpusVL Odoo 8.6',
+    'summary': 'Backports and forward ports of utility functions to saas-6',
     
     'category': 'Dependency',
     
-    'description': """Backports and forward ports of utility functions to OpusVL Odoo 8.6,
+    'description': """Backports and forward ports of utility functions to saas-6,
 """,
     'images': [
     ],
